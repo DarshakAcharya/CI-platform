@@ -1,2 +1,4 @@
 # CI-platform
-This project is made by - Darshak Acharya
+This project is made by 
+<br>
+- Darshak Acharya
